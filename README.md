@@ -1,6 +1,6 @@
 
 
-# **Muhammad Azan - Portfolio Website**   
+# **Muhammad Azan - Resume Website**   
 
 A modern, responsive portfolio website to showcase my skills, projects, and professional background as a **Software Engineer**.  
 
@@ -12,7 +12,6 @@ A modern, responsive portfolio website to showcase my skills, projects, and prof
 ✅ **Smooth Navigation** – Scroll-to-section with CSS animations  
 ✅ **Dark/Light UI** – Professional color scheme  
 
----
 
 ## **🛠 Technologies Used**  
 | **Frontend** | **Backend** | **Tools** |  
@@ -22,22 +21,15 @@ A modern, responsive portfolio website to showcase my skills, projects, and prof
 | JavaScript  | REST APIs  | VS Code  |  
 | React.js    | MongoDB    | Figma    |  
 
----
+
 
 ## **📂 Project Structure**  
-```
+
 portfolio-website/  
 ├── index.html          # Main HTML file  
 ├── styles.css          # Styling with CSS3  
 ├── script.js           # Interactive elements  
-└── README.md           # Project documentation  
-```
-
-
-
-## **📜 License**  
-This project is licensed under the **MIT License**.  
-
+└── README.md           # Project documentation
 
 ## **📬 Contact Me**  
 📧 **Email:** [inovate.azan@gmail.com](mailto:inovate.azan@gmail.com)  
@@ -48,7 +40,3 @@ This project is licensed under the **MIT License**.
 
 ### **🎯 Purpose**  
 This website serves as my **digital resume**, highlighting my technical skills and projects for potential employers and collaborators.  
-
----
-
-Would you like me to add anything else (e.g., screenshots, contribution guidelines)? 😊
